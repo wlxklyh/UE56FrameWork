@@ -8,8 +8,10 @@ UE56FrameWork.sln
 Intermediate
 Saved
 Binaries
+DerivedDataCache
 
 #这个目录有大文件 github 存lfs要收费  就忽略 然后自己下载即可
 Plugins/Puerts/ThirdParty/v8_9.4.146.24
+#Puerts 忽略
 Plugins/Puerts/Source/CSharpParamDefaultValueMetas
 Typing
